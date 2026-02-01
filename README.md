@@ -1,16 +1,16 @@
-# coffee_shop_ui
 
-A new Flutter project.
 
-## Getting Started
+## 🙏 Credits & Thanks
+- **Fabiano Bintang dan Amrizal Fidaroini** untuk diskusi dan bug fixing
+- **AI Assistant** untuk guidance dan code explanation
+- **Komunitas Flutter Indonesia** untuk resources
 
-This project is a starting point for a Flutter application.
+## 👨‍🎓 About Me
+**Nama Kamu** - Siswa SMA  
+Sedang belajar mobile development dengan Flutter.  
+Project ini adalah bagian dari journey belajar saya.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚠️ **Disclaimer:** Project ini dibuat untuk tujuan edukasi dan portofolio belajar.
+Saya Firman Nur Ihsan Berteima kasih karena sudah memakai hasil project kami 
